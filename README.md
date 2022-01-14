@@ -18,4 +18,5 @@ DFS:
 
 Dijkstra's:
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/89591438/149564377-47eea2da-c669-4e2f-80b9-0baca15d6f1e.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/89591438/149564995-eace8d0d-5d41-4e5f-9297-3d590c526155.gif)
+
